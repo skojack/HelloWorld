@@ -15,10 +15,6 @@
         <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
 
-    <!--scm>
-        <developerConnection>scm:git:ssh://git@stash.idsp.dvla.gov.uk:7999/drt/${project.artifactId}.git</developerConnection>
-    </scm-->
-
     <scm>
         <url>https://github.com/skojack/helloworld</url>
         <connection>scm:git:git://github.com/skojack/helloworld.git</connection>
