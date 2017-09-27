@@ -11,12 +11,6 @@
     <packaging>jar</packaging>
     <url>https://github.com/skojack/helloworld</url>
 
-    <parent>
-        <groupId>uk.gov.dvla.dsp</groupId>
-        <artifactId>dsp-parent</artifactId>
-        <version>4.3</version>
-    </parent>
-
     <properties>
         <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
